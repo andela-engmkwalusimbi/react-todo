@@ -1,0 +1,71 @@
+{
+  "posts": [
+    {
+      "id": 1,
+      "title": "json-server",
+      "author": "typicode"
+    }
+  ],
+  "comments": [
+    {
+      "id": 1,
+      "body": "some comment",
+      "postId": 1
+    }
+  ],
+  "profile": {
+    "name": "typicode"
+  },
+  "todos": [
+    {
+      "id": 1,
+      "name": "LearnJSX",
+      "isComplete": true
+    },
+    {
+      "id": 2,
+      "name": "BuildAwesomeApp",
+      "isComplete": false
+    },
+    {
+      "id": 3,
+      "name": "Shipit",
+      "isComplete": false
+    },
+    {
+      "id": 4,
+      "name": "Fetch Setup",
+      "isComplete": true
+    },
+    {
+      "id": 16083,
+      "name": "Damn it",
+      "isComplete": false
+    },
+    {
+      "id": 56928,
+      "name": "hvjbkfesd",
+      "isComplete": false
+    },
+    {
+      "id": 17442,
+      "name": "kjsd",
+      "isComplete": true
+    },
+    {
+      "id": 67593,
+      "name": "this",
+      "isComplete": true
+    },
+    {
+      "id": 18464,
+      "name": "Now",
+      "isComplete": false
+    },
+    {
+      "id": 19494,
+      "name": "disappear",
+      "isComplete": true
+    }
+  ]
+}
